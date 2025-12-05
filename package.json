@@ -1,0 +1,12 @@
+{
+  "name": "app-download-website",
+  "version": "1.0.0",
+  "description": "Website to download mobile app",
+  "scripts": {
+    "start": "http-server . -p 3000",
+    "build": "echo 'Build completed'"
+  },
+  "keywords": ["app", "download"],
+  "author": "",
+  "license": "MIT"
+}
